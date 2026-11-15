@@ -1,0 +1,92 @@
+{
+  "emendas/EmendasParlamentares.zip": {
+    "descricao": "Portal da Transparência: emendas parlamentares (3 CSVs, inclui o PorFavorecido com o município)",
+    "url": "https://portaldatransparencia.gov.br/download-de-dados/emendas-parlamentares/UNICO",
+    "url_final": "https://dadosabertos-download.cgu.gov.br/PortalDaTransparencia/saida/emendas-parlamentares/EmendasParlamentares.zip",
+    "last_modified": "Fri, 13 Nov 2026 19:24:48 GMT",
+    "baixado_em": "2026-11-15T12:41:08-03:00",
+    "bytes": 47094995,
+    "sha256": "ad1075230ce3c3f3b908fa03e7fa38d25c0f597d6f32ebd367389cfd5b9215b4"
+  },
+  "tse/votacao_candidato_munzona_2026.zip": {
+    "descricao": "TSE: votos de cada candidato por município e zona, eleição 2026",
+    "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2026.zip",
+    "url_final": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2026.zip",
+    "last_modified": "Sat, 14 Nov 2026 23:13:41 GMT",
+    "baixado_em": "2026-11-15T12:41:16-03:00",
+    "bytes": 457637302,
+    "sha256": "e73b8b4abb966d82794142110f9aec37b3a5f6c7134d64cac69b6e9f3aa9fa8b"
+  },
+  "tse/votacao_candidato_munzona_2022.zip": {
+    "descricao": "TSE: votos de cada candidato por município e zona, eleição 2022",
+    "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2022.zip",
+    "url_final": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2022.zip",
+    "last_modified": "Sat, 14 Nov 2026 07:25:17 GMT",
+    "baixado_em": "2026-11-15T12:41:27-03:00",
+    "bytes": 576932974,
+    "sha256": "86f6743f780ba7c31ab68491d0ccef270773a5a1772b2b3cc3fb5702f5b16249"
+  },
+  "tse/consulta_cand_2026.zip": {
+    "descricao": "TSE: candidatos 2026 (partido, cargo, UF, situação)",
+    "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/consulta_cand/consulta_cand_2026.zip",
+    "url_final": "https://cdn.tse.jus.br/estatistica/sead/odsele/consulta_cand/consulta_cand_2026.zip",
+    "last_modified": "Sun, 15 Nov 2026 15:36:19 GMT",
+    "baixado_em": "2026-11-15T12:41:28-03:00",
+    "bytes": 3288990,
+    "sha256": "cee477dfd50689a91821dfb1f94ba68119f2ba3725d996b97537f9bbed113a5b"
+  },
+  "tse/consulta_cand_2022.zip": {
+    "descricao": "TSE: candidatos 2022 (partido, cargo, UF, situação)",
+    "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/consulta_cand/consulta_cand_2022.zip",
+    "url_final": "https://cdn.tse.jus.br/estatistica/sead/odsele/consulta_cand/consulta_cand_2022.zip",
+    "last_modified": "Sat, 14 Nov 2026 06:21:46 GMT",
+    "baixado_em": "2026-11-15T12:41:28-03:00",
+    "bytes": 4444845,
+    "sha256": "4856885754fa6ca69f080e697f2fe0690c995974ec6b71ad83687730f403d2d6"
+  },
+  "tse/municipio_tse_ibge.zip": {
+    "descricao": "TSE: correspondência código de município TSE <-> IBGE",
+    "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/municipio_tse_ibge/municipio_tse_ibge.zip",
+    "url_final": "https://cdn.tse.jus.br/estatistica/sead/odsele/municipio_tse_ibge/municipio_tse_ibge.zip",
+    "last_modified": "Sun, 08 Nov 2026 12:00:19 GMT",
+    "baixado_em": "2026-11-15T12:41:29-03:00",
+    "bytes": 139066,
+    "sha256": "40d0a698d3d56c299e8afdbaa846453c230c8042c1b0b878010cc0e19f80c544"
+  },
+  "camara/deputados.csv": {
+    "descricao": "Câmara: todos os deputados da história (nome civil, nascimento, legislaturas)",
+    "url": "https://dadosabertos.camara.leg.br/arquivos/deputados/csv/deputados.csv",
+    "url_final": "https://dadosabertos.camara.leg.br/arquivos/deputados/csv/deputados.csv",
+    "last_modified": "Sun, 15 Nov 2026 04:00:01 GMT",
+    "baixado_em": "2026-11-15T12:41:29-03:00",
+    "bytes": 1372783,
+    "sha256": "28bf8eafa9e079babad41b4bb02c081e596a5869ace17dd2dfc75fb5166cd726"
+  },
+  "camara/deputados_leg57.json": {
+    "descricao": "Câmara: deputados que exerceram mandato na legislatura 57 (2023-2027)",
+    "url": "https://dadosabertos.camara.leg.br/api/v2/deputados?idLegislatura=57&itens=1000&ordem=ASC&ordenarPor=nome",
+    "url_final": "https://dadosabertos.camara.leg.br/api/v2/deputados?idLegislatura=57&itens=1000&ordem=ASC&ordenarPor=nome",
+    "last_modified": null,
+    "baixado_em": "2026-11-15T12:41:29-03:00",
+    "bytes": 301629,
+    "sha256": "0e8ca63c5bbb930b7f9db92a4201364e64a257bea74a3ecdb82fd4d46d8b9d52"
+  },
+  "senado/senadores_leg57.json": {
+    "descricao": "Senado: senadores da legislatura 57 (para conferir que os autores sem deputado são senadores)",
+    "url": "https://legis.senado.leg.br/dadosabertos/senador/lista/legislatura/57",
+    "url_final": "https://legis.senado.leg.br/dadosabertos/senador/lista/legislatura/57",
+    "last_modified": null,
+    "baixado_em": "2026-11-15T12:50:52-03:00",
+    "bytes": 257267,
+    "sha256": "f4cf977e16985b8b03b4ece42862f7ea74f1520ae83edbeb250a81d1a61c06b0"
+  },
+  "geo/municipios_coordenadas.csv": {
+    "descricao": "Coordenadas (latitude/longitude da sede) de cada município, por código IBGE — para mapas",
+    "url": "https://raw.githubusercontent.com/kelvins/municipios-brasileiros/main/csv/municipios.csv",
+    "url_final": "https://raw.githubusercontent.com/kelvins/municipios-brasileiros/main/csv/municipios.csv",
+    "last_modified": null,
+    "baixado_em": "2026-11-15T13:03:20-03:00",
+    "bytes": 390201,
+    "sha256": "22bd03d004361329f69ddfa3f6c99cd53012aa53972a172e10b141288ad0b1fe"
+  }
+}

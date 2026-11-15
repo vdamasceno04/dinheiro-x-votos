@@ -1,0 +1,16 @@
+# dados brutos (~1 GB) não vão para o git: rode scripts/baixar_dados.py
+dados/brutos/
+*.part
+
+# python / jupyter
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# sistema
+.DS_Store
+*~
+.~lock*
+dados/intermediarios/
+gephi/

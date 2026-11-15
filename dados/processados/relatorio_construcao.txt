@@ -1,0 +1,83 @@
+[municípios] tabela TSE↔IBGE: 5,571 municípios
+[votos 2026] linhas candidato×município: 2,446,795 | candidatos: 7,176 | municípios: 5,555 | votos nominais válidos: 109,821,025
+  ATENÇÃO: UF sem nenhum voto de deputado federal no arquivo do TSE: ['AP'] (16 municípios) — ficam fora da camada voto 2026
+[votos 2022] linhas candidato×município: 3,328,224 | candidatos: 9,675 | municípios: 5,570 | votos nominais válidos: 104,980,981
+[deputados] legislatura 57: 648 deputados que exerceram mandato (titulares + suplentes)
+  [2026] casado por nascimento+1º nome: MOSES HAENDEL MELO RODRIGUES ~ MOSES HAENDEL MELO SPÍNDOLA RODRIGUES
+  [2026] casado por nascimento+1º nome: EMANUEL PINHEIRO DA SILVA PRIMO ~ EMANUEL PINHEIRO DA SILVA PRIMO TEIXEIRA
+  [2026] casado por nascimento+1º nome: JOSE LOURENÇO BOMFIM JUNIOR ~ JOSÉ LOURENÇO BONFIM JUNIOR
+  [2026] casado por nascimento+1º nome: ELIANE DE SOUSA ALVES ~ ELIANE DE SOUSA ALVES MACHADO
+  [2026] casado por nascimento+1º nome: CÁSSIO MURILO GALDINO DE ARAÚJO ~ CÁSSIO MURILLO GALDINO DE ARAÚJO
+  [2026] casado por nascimento+1º nome: DUDA SALABERT ROSA ~ DUDA SALABERT
+  [2026] casado por nascimento+1º nome: ERIKA SANTOS SILVA ~ ERIKA HILTON
+  [2026] casado por nascimento+1º nome: GUILHERME A. UCHOA CAVALCANTI PESSOA DE MELO JUNIOR ~ GUILHERME ARISTOTELES UCHOA CAVALCANTI PESSOA DE MELO JUNIOR
+  [2026] casado por nascimento+1º nome: PEDRO HENRIQUE DE A. L. C. CAMPOS ~ PEDRO HENRIQUE DE ANDRADE LIMA CARNEIRO CAMPOS
+  [2026] casado por nascimento+1º nome: MARIA LEAL ARRAES DE ALENCAR ~ MARIA LEAL ARRAES DE ALENCAR FORTALEZA
+  [2026] casado por nascimento+1º nome: DAÍZE MICHELE DE AGUIAR GONÇALVES COLLINS ~ DAIZE MICHELE DE AGUIAR GONÇALVES
+  [2026] casado por nascimento+1º nome: MAURO IVAN F. SANTIAGO JR ~ MAURO IVAN FARIAS DE SANTIAGO JUNIOR
+  [2026] casado por nascimento+1º nome: PATRUS ANANIAS DE SOUZA ~ PATRUS ANANIAS DE SOUSA
+[TSE 2026] deputados encontrados como candidatos (qualquer cargo): 584 de 648
+  cargo disputado: {'DEPUTADO FEDERAL': 509, '(não concorreu / não achado)': 64, 'SENADOR': 44, 'DEPUTADO ESTADUAL': 18, 'GOVERNADOR': 5, '1º SUPLENTE': 4, 'VICE-GOVERNADOR': 2, 'VICE-PRESIDENTE': 1, '2º SUPLENTE': 1}
+  [2022] casado por nascimento+1º nome: PAULO ROBERTO FOLLETTO ~ PAULO ROBERTO FOLETTO
+  [2022] casado por nascimento+1º nome: EMANUEL PINHEIRO DA SILVA PRIMO ~ EMANUEL PINHEIRO DA SILVA PRIMO TEIXEIRA
+  [2022] casado por nascimento+1º nome: LUIZ ANTONIO C. C. CORRÊA DA SILVA ~ LUIZ ANTONIO DA COSTA CARVALHO CORREA DA SILVA
+  [2022] casado por nascimento+1º nome: Carlos Roberto Jordy Coelho de Mattos ~ CARLOS ROBERTO COELHO DE MATTOS JUNIOR
+  [2022] casado por nascimento+1º nome: LUIZ PHILIPPE DE ORLEANS BRAGANÇA ~ LUIZ PHILIPPE DE ORLEANS E BRAGANÇA
+  [2022] casado por nascimento+1º nome: JOSE LOURENÇO BOMFIM JUNIOR ~ JOSÉ LOURENÇO BONFIM JÚNIOR
+  [2022] casado por nascimento+1º nome: ELIANE DE SOUSA ALVES ~ ELIANE DE SOUSA ALVES MACHADO
+  [2022] casado por nascimento+1º nome: JOSÉ AUGUSTO PUPPIO REIS JÚNIOR ~ JOSÉ AUGUSTO PUPIO REIS JÚNIOR
+  [2022] casado por nascimento+1º nome: CRISTIANE LOPES DA LUZ ~ CRISTIANE LOPES DA LUZ BENARROSH
+  [2022] casado por nascimento+1º nome: SONIA BONE DE SOUSA SILVA ~ SÔNIA BONE DE SOUSA SILVA SANTOS
+  [2022] casado por nascimento+1º nome: SIMONE APARECIDA MARQUETO CURRALADAS ~ SIMONE APARECIDA CURRALADAS DOS SANTOS
+  [2022] casado por nascimento+1º nome: GUILHERME A. UCHOA CAVALCANTI PESSOA DE MELO JUNIOR ~ GUILHERME ARISTOTELES UCHOA CAVALCANTI PESSOA DE MELO JUNIOR
+  [2022] casado por nascimento+1º nome: PEDRO HENRIQUE DE A. L. C. CAMPOS ~ PEDRO HENRIQUE DE ANDRADE LIMA CARNEIRO CAMPOS
+  [2022] casado por nascimento+1º nome: CARLA SIMARA LUCIANA DA SILVA AYRES ~ CARLA SIMARA LUCIANA DA SILVA SALASÁRIO AYRES
+  [2022] casado por nascimento+1º nome: DAÍZE MICHELE DE AGUIAR GONÇALVES COLLINS ~ DAIZE MICHELE DE AGUIAR GONÇALVES
+  [2022] casado por nascimento+1º nome: MAURO IVAN F. SANTIAGO JR ~ MAURO IVAN FARIAS DE SANTIAGO JUNIOR
+  [2022] casado por nascimento+1º nome: FABIANO LOPES FERREIRA CAZECA ~ FABIANO LOPES FERREIRA
+  [2022] casado por nascimento+1º nome: PATRUS ANANIAS DE SOUZA ~ PATRUS ANANIAS DE SOUSA
+[TSE 2022] deputados encontrados como candidatos (qualquer cargo): 646 de 648
+  cargo disputado: {'DEPUTADO FEDERAL': 646, '(não concorreu / não achado)': 2}
+[emendas] PorFavorecido: 835,311 pagamentos, R$ 283.8 bi (todos os tipos e anos)
+  individuais de 2024-2026: R$ 64.12 bi
+  pagos até 09/2026 (antes da eleição): R$ 61.83 bi
+  fatia paga a entes municipais (prefeitura/fundo municipal): 69.0% — o resto vai a estados, bancos (ex.: R$ da saúde via Banco do Brasil) e entidades privadas
+[municípios] valor casado com código IBGE: 100.00%
+  aproximado: 'AUGUSTO PUPPIO' (AP) -> Augusto Pupio [220577]
+  aproximado: 'DR. ALLAN GARCES' (MA) -> Allan Garcês [226708]
+  aproximado: 'DR. DANIEL SORANZ' (RJ) -> Daniel Soranz [220614]
+  aproximado: 'ISMAEL ALEXANDRINO' (GO) -> Dr. Ismael Alexandrino [220570]
+  aproximado: 'JOAO CURY NETO (EX-PARLAMENTAR ALBERTO MOURAO, NOS TERMOS AR' (SP) -> João Cury [230957]
+  aproximado: 'MARCIVANIA FLEXA (EX-PARLAMENTAR MARIA GORETH, NOS TERMOS AR' (AP) -> Professora Marcivania [160641]
+  aproximado: 'PAULO FOLLETTO' (ES) -> Paulo Foletto [160517]
+  aproximado: 'RAFAEL BENTO (EX-PARLAMENTAR LEBRAO, NOS TERMOS ART. 78 LDO ' (RO) -> Rafael Fera [233594]
+  aproximado: 'RIBAMAR ANTONIO DA SILVA (EX-PARLAMENTAR RICARDO SILVA, NOS ' (SP) -> Ribamar Silva [175765]
+  aproximado: 'SAMUEL SANTOS' (GO) -> Samuel dos Santos [233598]
+  (info) ALBERTO FRAGA: deputado do DF, mas a maior parte do dinheiro foi para o GO
+  (info) BIA KICIS: deputado do DF, mas a maior parte do dinheiro foi para o RS
+  (info) ERIKA KOKAY: deputado do DF, mas a maior parte do dinheiro foi para o RS
+  (info) FRED LINHARES: deputado do DF, mas a maior parte do dinheiro foi para o GO
+  (info) GILVAN MAXIMO: deputado do DF, mas a maior parte do dinheiro foi para o GO
+  (info) JULIO CESAR RIBEIRO: deputado do DF, mas a maior parte do dinheiro foi para o GO
+  (info) PROF. PAULO FERNANDO: deputado do DF, mas a maior parte do dinheiro foi para o GO
+  (info) RAFAEL PRUDENTE: deputado do DF, mas a maior parte do dinheiro foi para o GO
+  (info) RODRIGO ROLLEMBERG (EX-PARLAMENTAR GILVAN MAX: deputado do DF, mas a maior parte do dinheiro foi para o GO
+  (info) TARCISIO MOTTA: deputado do RJ, mas a maior parte do dinheiro foi para o SP
+[autores -> Câmara] (emendas individuais 2024-26, entes municipais)
+                              autores  valor_bi
+metodo                                         
+aproximado (conferir)              10      0.31
+manual                              2      0.12
+nome de urna 2022                   3      0.18
+nome exato                        545     32.35
+sem deputado (senador/outro)       81      9.68
+  sem deputado: 81 autores, dos quais 81 estão na lista de senadores da legislatura 57 (R$ 9.68 bi — fora da rede por definição)
+[dinheiro] valor ligado a um deputado da legislatura 57: 77.3%
+[dinheiro] pares com valor líquido ≤ 0 (pagamento estornado) removidos: 4 (R$ -1,076.70)
+[dinheiro] arestas: 32,786 | deputados: 545 | municípios: 5,531 | R$ 32.96 bi | fora da UF do deputado: 0.53% do valor
+[voto 2026] deputados candidatos a dep. federal: 509 | com voto: 490 | arestas (voto > 0): 148,469
+  sem nenhum voto válido: 19 — 11 do(s) estado(s) ['AP'] (sem dados) e os demais com candidatura que não foi à urna ou foi anulada: ['Antônia Lúcia', 'Lázaro Botelho', 'Carlos Jordy', 'Pastor Gil', 'Gilvan da Federal', 'Geraldo Mendes', 'Ricardo Abrão', 'Nelinho Freitas']
+[voto 2022] deputados candidatos a dep. federal: 646 | com voto: 644 | arestas (voto > 0): 187,107
+  sem nenhum voto válido: 2 — 0 do(s) estado(s) [] (sem dados) e os demais com candidatura que não foi à urna ou foi anulada: ['Sonize Barbosa', 'Silvia Waiãpi']
+[deputados] nas duas camadas (dinheiro e voto 2026): 426 | e também em 2022: 424
+[municípios] com coordenadas: 5571 de 5571
